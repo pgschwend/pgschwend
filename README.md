@@ -1,38 +1,56 @@
 # Hi, I'm Patrick Gschwend
 
-I'm an embedded hardware/software engineer from Switzerland who loves creating things that connect the physical and digital worlds.  
+I'm an embedded software/hardware engineer from Switzerland who loves creating things that connect the physical and digital worlds.  
 I enjoy building well-engineered systems — from circuit boards to cloud servers.
 
 ---
 
 ### 🎓 Education
-- **Automation Technician EFZ** (Switzerland)  
+- **Master of Advanced Studies in Software Engineering** (FH Rapperswil)  
 - **Electrical Engineer HF**, Microprocessor Technology (ZbW St. Gallen)  
-- **Master of Advanced Studies in Software Engineering** (FH Rapperswil)
+- **Automation Technician EFZ** (Switzerland)
 
 ---
 
 ### 💻 Experience
-- **Industrial Automation (B&R – Structured Text)**  
-- **Backend Development:** Java Spring  
-- **Frontend Development:** React, TypeScript  
-- **System Administration:** Linux (mainly Ubuntu), Git, SVN  
-- **Server Infrastructure:** Hosting & management at [RhiiWeb](https://rhiiweb.ch)  
-- **Embedded Systems:** C / C++, low-level firmware, microcontrollers  
-- **Electronics & Hardware Design**
+- **Embedded Hardware/Software Engineer** – Firmware, C/C++, microcontrollers  
+- **ICT Course Instructor** at Berufsbildungscenter St. Gallen – Teaching programming & embedded systems to apprentices  
+- **Web Hosting Entrepreneur** – Running [RhiiWeb](https://rhiiweb.ch)  
+- **Frontend/Backend Development** – Java Spring, React/TypeScript  
+- **System Administration** – Linux, Git, infrastructure management  
+- **Industrial Automation** – B&R (Structured Text)  
+- **Electronics & Hardware Design** – Circuit design, prototyping
+
+---
+
+### 🛠️ Technical Skills
+**Languages:** C, C++, Java, TypeScript, Structured Text  
+**Infrastructure:** Linux, Docker, Web hosting  
+**Embedded:** Microcontrollers, Firmware, Real-time systems  
+**Tools:** Git, VS Code, IntelliJ
+**Web:** React, Spring Boot, REST APIs  
+**Hardware:** Circuit design, PCB layout, Electronics  
 
 ---
 
 ### 🚀 Projects
-- **[RhiiWeb](https://rhiiweb.ch)** – a modern Swiss web hosting platform  
-- **Alpacalyze** – an intuitive network analysis tool with smart visualizations  
+- **[RhiiWeb](https://rhiiweb.ch)** – A modern Swiss web hosting platform  
+- **Alpacalyze** – An intuitive network analysis tool with smart visualizations  
 
 ---
 
-### ⚙️ Hobbies
+### 📚 Currently Learning
+- Machine Learning & AI  
+- Signal Processing for Embedded Systems  
+- Advanced English (C1 level)
+
+---
+
+### ⚙️ Hobbies & Interests
 When I'm not coding or designing circuits, you'll probably find me:  
 - 🏂 Snowboarding in the Swiss Alps  
-- 🛵 Restoring vintage Vespa scooters  
+- 🛵 Restoring vintage Vespa scooters
+- 📚 Teaching and mentoring aspiring engineers
 - 🔧 Tinkering with all kinds of tech projects  
 
 ---
