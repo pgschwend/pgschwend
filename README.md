@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Gschwend
 
-I'm an embedded hardware/software engineer from Switzerland with a passion for 
+I'm an embedded software/hardware engineer from Switzerland with a passion for 
 building systems that bridge the physical and digital worlds — from low-level 
 firmware to cloud infrastructure. 
 
