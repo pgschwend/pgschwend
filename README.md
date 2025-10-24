@@ -28,12 +28,12 @@ instructor, teaching the next generation of engineers.
 ---
 
 ### 🛠️ Technical Skills
-**Languages:** C, C++, Java, TypeScript, Structured Text  
-**Infrastructure:** Linux, Docker, Web hosting  
-**Embedded:** Microcontrollers, Firmware, Real-time systems  
-**Tools:** Git, VS Code, IntelliJ
-**Web:** React, Spring Boot, REST APIs  
-**Hardware:** Circuit design, PCB layout, Electronics  
+- **Languages:** C, C++, Java, TypeScript, Structured Text  
+- **Infrastructure:** Linux, Docker, Web hosting  
+- **Embedded:** Microcontrollers, Firmware, Real-time systems  
+- **Tools:** Git, VS Code, IntelliJ
+- **Web:** React, Spring Boot, REST APIs  
+- **Hardware:** Circuit design, PCB layout, Electronics  
 
 ---
 
