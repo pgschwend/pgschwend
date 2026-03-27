@@ -12,7 +12,7 @@ instructor, teaching the next generation of engineers.
 ### Education
 - **Master of Advanced Studies in Software Engineering** (FH Rapperswil)  
 - **Electrical Engineer HF**, Microprocessor Technology (ZbW St. Gallen)  
-- **Automation Technician EFZ** (Switzerland)
+- **Automation Technician EFZ** (GBS St. Gallen)
 
 ---
 
