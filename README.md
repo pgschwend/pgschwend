@@ -59,6 +59,6 @@ When I'm not coding or designing circuits, you'll probably find me:
 
 ---
 
-> “Great engineering happens when curiosity meets persistence.”
-
 Feel free to connect or check out my repositories!
+
+> “Great engineering happens when curiosity meets persistence.”
