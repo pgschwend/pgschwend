@@ -14,7 +14,6 @@ Beside my engineering work, I am the founder of **Rhenosys GmbH** (managing regi
 ---
 
 ### Technical Skills
-
 *   **Languages:** C, C++ (Qt), Java (Spring Boot), TypeScript, SQL, Bash/Shell
 *   **Operating Systems & Kernel:** Linux (Ubuntu/Debian expert), FreeRTOS, Real-Time Systems
 *   **Networking & Infrastructure:** Firewalls, MikroTik, DNS, REST, HTTP, Docker, Plesk, Mailcow
@@ -23,7 +22,6 @@ Beside my engineering work, I am the founder of **Rhenosys GmbH** (managing regi
 ---
 
 ### Key Projects
-
 *   **[RhenoCalc](https://github.com/pgschwend/rhenocalc)** – An open-source engineering toolbox designed for fast, precise low-level and mathematical calculations.
 *   **[RhiiWeb](https://rhiiweb.ch)** – A managed web hosting provider and IT services platform built entirely on automated Linux infrastructure, operating under Rhenosys GmbH.
 *   **Motolyzer** – A high-performance performance-diagnostic application and signal-processing platform for engine tuning, utilizing custom hardware-based inductive RPM sensors.
