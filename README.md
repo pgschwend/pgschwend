@@ -1,64 +1,57 @@
 # Hi, I'm Patrick Gschwend
 
-I'm an embedded software/hardware engineer from Switzerland with a passion for 
-building systems that bridge the physical and digital worlds — from low-level 
-firmware to cloud infrastructure. 
+I am a Senior Embedded Systems & Software Engineer from Switzerland. I bridge the gap between hardware architecture and high-performance software — specializing in low-level C/C++, Linux kernel engineering, and robust infrastructure.
 
-I believe in continuous learning and enjoy sharing knowledge as a course 
-instructor, teaching the next generation of engineers.
+Beside my engineering work, I am the founder of **Rhenosys GmbH** (managing regional managed services and hosting via *RhiiWeb*) and pass on my passion for technology as a professional course instructor for ICT apprentices.
 
 ---
 
-### Education
-- **Master of Advanced Studies in Software Engineering** (FH Rapperswil)  
-- **Electrical Engineer HF**, Microprocessor Technology (ZbW St. Gallen)  
-- **Automation Technician EFZ** (GBS St. Gallen)
-
----
-
-### Experience
-- **Embedded Hardware/Software Engineer** – Firmware, C/C++, microcontrollers  
-- **ICT Course Instructor** at Berufsbildungscenter St. Gallen – Teaching programming & embedded systems to apprentices  
-- **Web Hosting Entrepreneur** – Running [RhiiWeb](https://rhiiweb.ch)  
-- **Frontend/Backend Development** – Java Spring, React/TypeScript  
-- **System Administration** – Linux, Git, infrastructure management  
-- **Industrial Automation** – B&R (Structured Text)  
-- **Electronics & Hardware Design** – Circuit design, prototyping
+### What I Do
+*   **Embedded Systems & Kernel Programming:** Developing high-performance, low-latency algorithms and custom device drivers in C and C++ (including Qt).
+*   **Linux & Infrastructure:** Hardening and automating Ubuntu/Debian server environments, firewalls, and secure networking architectures (MikroTik, DNS, REST).
+*   **Hardware-Software Co-Design:** Designing circuits, BSPs (Board Support Packages), and bare-metal/RTOS firmware for microcontrollers (STM32, TI MSPM0).
 
 ---
 
 ### Technical Skills
-- **Languages:** C, C++, Java, TypeScript, Structured Text  
-- **Infrastructure:** Linux, Docker, Web hosting  
-- **Embedded:** Microcontrollers, Firmware, FreeRTOS, Real-time systems 
-- **Tools:** Git, VS Code, IntelliJ
-- **Web:** React, Spring Boot, REST APIs  
-- **Hardware:** Circuit design, PCB layout, Electronics  
+
+*   **Languages:** C, C++ (Qt), Java (Spring Boot), TypeScript, SQL, Bash/Shell
+*   **Operating Systems & Kernel:** Linux (Ubuntu/Debian expert), FreeRTOS, Real-Time Systems
+*   **Networking & Infrastructure:** Firewalls, MikroTik, DNS, REST, HTTP, Docker, Plesk, Mailcow
+*   **Hardware Engineering:** PCB Design, Signal Processing, Inductive Sensors, Circuit Prototyping
 
 ---
 
-### Projects
-- **[RhiiWeb](https://rhiiweb.ch)** – A modern Swiss web hosting platform  
-- **Alpacalyze** – An intuitive network analysis tool with smart visualizations  
+### Key Projects
+
+*   **[RhenoCalc](https://github.com/pgschwend/rhenocalc)** – An open-source engineering toolbox designed for fast, precise low-level and mathematical calculations.
+*   **[RhiiWeb](https://rhiiweb.ch)** – A managed web hosting provider and IT services platform built entirely on automated Linux infrastructure, operating under Rhenosys GmbH.
+*   **Motolyzer** – A high-performance performance-diagnostic application and signal-processing platform for engine tuning, utilizing custom hardware-based inductive RPM sensors.
 
 ---
 
-### Currently Learning
-- Machine Learning & AI  
-- Signal Processing for Embedded Systems  
-- Advanced English (C1 level)
+### Education & Credentials
+*   **MAS, Software Engineering** – HSR Rapperswil
+*   **Adv. Fed. Dipl. HE, Electrical Engineering** *(Microprocessor Tech)* – ZbW St. Gallen
+*   **Automation Technician EFZ** – GBS St. Gallen
 
 ---
 
-### Hobbies & Interests
-When I'm not coding or designing circuits, you'll probably find me:  
-- Snowboarding in the Swiss Alps  
-- Restoration of vintage Vespas
-- Teaching and mentoring aspiring engineers
-- Tinkering with all kinds of tech projects  
+### Current Focus & Learning
+*   Linux Kernel Internals, Upstream Patching & Debugging
+*   High-Performance Computing & Parallel Programming (CUDA)
+*   Advanced Professional English (Targeting C1)
 
 ---
 
-Feel free to connect or check out my repositories!
+### Beyond the Code
+When I'm not configuring Ubuntu servers or digging into C++ memory management, you will find me:
+*   Restoring and tuning vintage 2-stroke engines (Vespas & Mofas).
+*   Mentoring the next generation of engineers at BBC St. Gallen.
+*   Snowboarding in the Swiss Alps or working on structural property engineering.
+
+---
+
+**Connect with me:** Feel free to explore my repositories or reach out for high-level technical discussions!
 
 > “Great engineering happens when curiosity meets persistence.”
