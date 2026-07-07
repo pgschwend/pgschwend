@@ -31,8 +31,8 @@ Beside my engineering work, I am the founder of **Rhenosys GmbH** (managing regi
 ---
 
 ### Education & Credentials
-*   **MAS, Software Engineering** – HSR Rapperswil
-*   **Adv. Fed. Dipl. HE, Electrical Engineering** *(Microprocessor Tech)* – ZbW St. Gallen
+*   **Master of Advanced Studies (MAS) in Software Engineering** – HSR Rapperswil
+*   **Advanced Federal Diploma HE, Electrical Engineering** *(Microprocessor Technology)* – ZbW St. Gallen
 *   **Automation Technician EFZ** – GBS St. Gallen
 
 ---
