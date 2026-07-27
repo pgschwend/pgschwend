@@ -1,8 +1,6 @@
 # Hi, I'm Patrick Gschwend
 
-I am a Senior Embedded Systems & Software Engineer from Switzerland. I bridge the gap between hardware architecture and high-performance software — specializing in low-level C/C++, Linux kernel engineering, and robust infrastructure.
-
-Beside my engineering work, I am the founder of **Rhenosys GmbH** (managing regional managed services and hosting via *RhiiWeb*) and pass on my passion for technology as a professional course instructor for ICT apprentices.
+I am a Embedded Systems & Software Engineer from Switzerland. I bridge the gap between hardware architecture and high-performance software — specializing in low-level C/C++ and robust infrastructure based on Linux Servers.
 
 ---
 
@@ -15,9 +13,9 @@ Beside my engineering work, I am the founder of **Rhenosys GmbH** (managing regi
 
 ### Technical Skills
 *   **Languages:** C, C++ (Qt), Java (Spring Boot), TypeScript, SQL, Bash/Shell
-*   **Operating Systems & Kernel:** Linux (Ubuntu/Debian expert), FreeRTOS, Real-Time Systems
+*   **Operating Systems & Kernel:** Linux (Ubuntu/Debian), FreeRTOS, Real-Time Systems
 *   **Networking & Infrastructure:** Firewalls, MikroTik, DNS, REST, HTTP, Docker, Plesk, Mailcow
-*   **Hardware Engineering:** PCB Design, Signal Processing, Inductive Sensors, Circuit Prototyping
+*   **Hardware Engineering:** PCB Design, Signal Processing, Circuit Prototyping
 
 ---
 
@@ -37,7 +35,6 @@ Beside my engineering work, I am the founder of **Rhenosys GmbH** (managing regi
 
 ### Current Focus & Learning
 *   Linux Kernel Internals, Upstream Patching & Debugging
-*   High-Performance Computing & Parallel Programming (CUDA)
 *   Advanced Professional English (Targeting C1)
 
 ---
