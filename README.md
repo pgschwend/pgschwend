@@ -5,9 +5,9 @@ I am a Embedded Systems & Software Engineer from Switzerland. I bridge the gap b
 ---
 
 ### What I Do
-*   **Embedded Systems & Kernel Programming:** Developing high-performance, low-latency algorithms and custom device drivers in C and C++ (including Qt).
+*   **Embedded Systems Programming:** Developing high-performance, low-latency algorithms and custom device drivers in C and C++ (including Qt).
 *   **Linux & Infrastructure:** Hardening and automating Ubuntu/Debian server environments, firewalls, and secure networking architectures (MikroTik, DNS, REST).
-*   **Hardware-Software Co-Design:** Designing circuits, BSPs (Board Support Packages), and bare-metal/RTOS firmware for microcontrollers (STM32, TI MSPM0).
+*   **Hardware-Software Co-Design:** Designing circuits, BSPs (Board Support Packages), and bare-metal/RTOS firmware for microcontrollers (STM32, TI MSPM0, etc).
 
 ---
 
@@ -21,7 +21,7 @@ I am a Embedded Systems & Software Engineer from Switzerland. I bridge the gap b
 
 ### Key Projects
 *   **[RhenoCalc](https://github.com/pgschwend/rhenocalc)** – An open-source engineering toolbox designed for fast, precise low-level and mathematical calculations.
-*   **[RhiiWeb](https://rhiiweb.ch)** – A managed web hosting provider and IT services platform built entirely on automated Linux infrastructure, operating under Rhenosys GmbH.
+*   **[RhiiWeb](https://rhiiweb.ch)** – A managed web hosting provider and IT services platform built entirely on automated Linux infrastructure.
 *   **Motolyzer** – A high-performance performance-diagnostic application and signal-processing platform for engine tuning, utilizing custom hardware-based inductive RPM sensors.
 
 ---
@@ -30,12 +30,6 @@ I am a Embedded Systems & Software Engineer from Switzerland. I bridge the gap b
 *   **Master of Advanced Studies (MAS) in Software Engineering** – HSR Rapperswil
 *   **Advanced Federal Diploma HE, Electrical Engineering** *(Microprocessor Technology)* – ZbW St. Gallen
 *   **Automation Technician EFZ** – GBS St. Gallen
-
----
-
-### Current Focus & Learning
-*   Linux Kernel Internals, Upstream Patching & Debugging
-*   Advanced Professional English (Targeting C1)
 
 ---
 
